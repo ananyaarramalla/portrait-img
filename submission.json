@@ -2,6 +2,6 @@
   "prompt": "A hyper-realistic, wide-angle cinematic photograph of an immense, labyrinthine botanical structure in a vast glass atrium. It is a single, continuous, surreal Escher-like system composed of two interweaving, repeating plant-forms, 'Plant A' and 'Plant B', made of segmented wooden modules and twisting vines. From every single individual local perspective, at every segmented connection, a 'Plant A' module is visibly shorter and thicker than a corresponding 'Plant B' module. However, from the overall global composition, the vast, monumental architecture created by all of 'Plant A' is drastically taller and covers more area than the entirety of 'Plant B'. It is a visual block, an impossible, non-Euclidean contradiction. Photorealistic, 8k, chiaroscuro lighting, visceral, unsettling, no text, no charts.",
   "model": "Midjourney v6.1",
   "paradox": "Simpson's Paradox",
-  "visual_logic": "Viewers see a vast, interweaving dual-structure. At every single local connection, Structure A is shorter/thicker than Structure B. Yet, in the overall global composition, the entire architecture formed by Structure A is visibly massive, taller, and more expansive than the entire architecture formed by Structure B.",
+  "visual_logic": "Locally, every module of Structure A is shorter than B. Globally, the total architecture of A is taller and more expansive than B, visualizing how subgroup trends can reverse when the groups are combined into a whole.",
   "publish_email": true
 }
